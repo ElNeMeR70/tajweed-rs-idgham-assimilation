@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-idgham-assimilation"
+version = "1.0.0"
+edition = "2021"
+description = "Homorganic & Geminate Consonant Assimilation Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_idgham_assimilation"
+path = "main.rs"
